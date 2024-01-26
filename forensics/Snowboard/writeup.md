@@ -1,7 +1,7 @@
 # Snowboard
 
 ## artifacts
-<img src="Snowboard.jpg">
+<img src="Snowboard.jpg" style="height:50">
 
 ## process
 
