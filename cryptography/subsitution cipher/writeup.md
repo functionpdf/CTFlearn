@@ -7,4 +7,4 @@ The title of the problem basically tells us how to solve this problem. I'll try 
 ### step-2
 And we got it. It went so smoothly I almost can't believe it, but the flag is literally in the first line of the .txt file, so...
 ## flag
-`IFONLYMODERNCRYPTOWASLIKETHIS`
+`CTFlearn{IFONLYMODERNCRYPTOWASLIKETHIS}`
