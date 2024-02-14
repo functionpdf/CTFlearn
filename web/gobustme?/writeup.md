@@ -1,7 +1,7 @@
 # Gobustme ?
 ## artifacts
-<a href="https://gobustme.ctflearn.com/">https://gobustme.ctflearn.com/</a>
-<a href="https://www.securitynewspaper.com/2019/11/04/bruteforce-any-website-with-gobuster-step-by-step-guide/">securitynewspaper.com/2019/11/04/bruteforce-any-website-with-gobuster-step-by-step-guide/</a>
+<a href="https://gobustme.ctflearn.com/">https://gobustme.ctflearn.com/</a> <\n>
+<a href="https://www.securitynewspaper.com/2019/11/04/bruteforce-any-website-with-gobuster-step-by-step-guide/">securitynewspaper.com/2019/11/04/bruteforce-any-website-with-gobuster-step-by-step-guide/</a> <\n>
 <a href="https://raw.githubusercontent.com/v0re/dirb/master/wordlists/common.txt">https://raw.githubusercontent.com/v0re/dirb/master/wordlists/common.txt</a>
 ## process
 ### step-01
