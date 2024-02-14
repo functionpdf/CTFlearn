@@ -6,6 +6,7 @@
 
 <a href="https://raw.githubusercontent.com/v0re/dirb/master/wordlists/common.txt">https://raw.githubusercontent.com/v0re/dirb/master/wordlists/common.txt</a>
 ## process
+* gobuster is a bruteforce tool.
 ### step-01
 The author has so kindly provided us with everything we need to know. So I follow the guide to use Gobuster: first install it in my kali virtual machine, and then download the `.txt` file as `commonbrute.txt`(this is optional, I was just lazy to type)
 ### step-02 
