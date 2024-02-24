@@ -1,7 +1,7 @@
 # A CAPture of a Flag
 ## artifacts
-
-##process
+<a href="https://github.com/functionpdf/CTFlearn/blob/main/forensics/A%20CAPture%20of%20a%20Flag/flag.pcap">flag.pcap</a>
+## process
 ### step-01
 From the problem statement, we can see the keywords `wireshark` and `capture`. This seems to suggest that the `flag` file should be a network packet. Let's change the file extension to that and open it in Wireshark
 ### step-02
